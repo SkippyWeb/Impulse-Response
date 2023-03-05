@@ -13,9 +13,9 @@ The IR is convoluted with the sine wave. Subsequently, a Discrete Fourier Transf
 
 
 **Developer**
-    Antoine van Kampen
-    www.skippyweb.eu
-   5 June 2021
+    Antoine van Kampen    
+    www.skippyweb.eu   
+   5 June 2021      
 
 
 
