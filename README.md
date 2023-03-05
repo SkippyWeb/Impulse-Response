@@ -19,6 +19,10 @@ The IR is convoluted with the sine wave. Subsequently, a Discrete Fourier Transf
 
 
 
+![](https://github.com/SkippyWeb/Images/blob/main/Freq-Phase-Response.png)
+
+
+
 **Content**
 
 - Jupyter notebook
